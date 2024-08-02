@@ -9,5 +9,5 @@ git restore commands.txt
 git rm --cached
 git config --global user.name
 git config --global user.email
-git commit -m after that we can maintain the versioning of the code. means we can main tain track the versioning code.
-
+git commit -m after that we can maintain the versioning of the code. means we can main tain track the versioning
+git checkout -b
