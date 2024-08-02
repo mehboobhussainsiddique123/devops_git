@@ -1,5 +1,9 @@
 git init
 git status
-git add 
-git commit -m
+git add
+git commit -m  //after running this commnads we can able to restore the file after deletion. with the help of the git restore fi                    name and we  can also commit the code at local repo.
+git log
+git log --online
+git log --oneline --pretty
+
 
