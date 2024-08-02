@@ -7,4 +7,6 @@ git log --online
 git log --oneline --pretty
 git restore commands.txt
 git rm --cached
+git config --global user.name
+git config --global user.email
 
